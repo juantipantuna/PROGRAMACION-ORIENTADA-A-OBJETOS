@@ -1,15 +1,19 @@
 # 2526---PROGRAMACION-ORIENTADA-A-OBJETOS
-Este repositorio contiene el código fuente desarrollado durante la asignatura **Programación Orientada a Objetos**, impartida en la **Universidad Estatal Amazónica**. Está diseñado como un recurso de apoyo para estudiantes y profesionales interesados en conceptos y prácticas de programación orientada a objetos.
+
+Este repositorio contiene el código fuente desarrollado durante la asignatura **Programación Orientada a Objetos**,
+impartida en la **Universidad Estatal Amazónica**. Está diseñado como un recurso de apoyo para estudiantes y
+profesionales interesados en conceptos y prácticas de programación orientada a objetos.
 
 ## Información de la asignatura
 
-- **Institución**: Universidad Estatal Amazónica (UEA)  
-- **Carrera**: Ingeniería en Tecnologías de la Información y Comunicación  
-- **Asignatura**: Programación Orientada a Objetos  
+- **Institución**: Universidad Estatal Amazónica (UEA)
+- **Carrera**: Ingeniería en Tecnologías de la Información
+- **Asignatura**: Programación Orientada a Objetos
 
 ## Contenido del repositorio
 
 Este repositorio incluye:
+
 1. Ejercicios prácticos de programación orientada a objetos.
 2. Ejemplos de implementación en Python.
 3. Proyectos desarrollados como parte de las actividades de la asignatura.
@@ -23,7 +27,7 @@ Este repositorio incluye:
 
 ## Instrucciones para el uso
 
-1. Clona el repositorio:  
+1. Clona el repositorio:
    ```bash
    git clone https://github.com/snogales-uea/2526---PROGRAMACION-ORIENTADA-A-OBJETOS.git
    cd 2526---PROGRAMACION-ORIENTADA-A-OBJETOS
