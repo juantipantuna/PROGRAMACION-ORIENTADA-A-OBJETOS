@@ -4,5 +4,17 @@
     "nombre": "Laptop",
     "cantidad": 10,
     "precio": 1200.5
+  },
+  {
+    "id": "001L",
+    "nombre": "Cien años de soledad",
+    "cantidad": 10,
+    "precio": 20.0
+  },
+  {
+    "id": "003L",
+    "nombre": "El Principito",
+    "cantidad": 8,
+    "precio": 15.0
   }
 ]
